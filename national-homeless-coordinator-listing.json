@@ -1,0 +1,139 @@
+!!Error parsing row 0. Wrong number of columns.!!
+!!Error parsing row 1. Wrong number of columns.!!
+!!Error parsing row 2. Wrong number of columns.!!
+!!Error parsing row 3. Wrong number of columns.!!
+!!Error parsing row 4. Wrong number of columns.!!
+!!Error parsing row 5. Wrong number of columns.!!
+!!Error parsing row 6. Wrong number of columns.!!
+!!Error parsing row 7. Wrong number of columns.!!
+!!Error parsing row 8. Wrong number of columns.!!
+!!Error parsing row 9. Wrong number of columns.!!
+!!Error parsing row 10. Wrong number of columns.!!
+!!Error parsing row 11. Wrong number of columns.!!
+!!Error parsing row 12. Wrong number of columns.!!
+!!Error parsing row 13. Wrong number of columns.!!
+!!Error parsing row 14. Wrong number of columns.!!
+!!Error parsing row 15. Wrong number of columns.!!
+!!Error parsing row 16. Wrong number of columns.!!
+!!Error parsing row 17. Wrong number of columns.!!
+!!Error parsing row 18. Wrong number of columns.!!
+!!Error parsing row 19. Wrong number of columns.!!
+!!Error parsing row 20. Wrong number of columns.!!
+!!Error parsing row 21. Wrong number of columns.!!
+!!Error parsing row 22. Wrong number of columns.!!
+!!Error parsing row 23. Wrong number of columns.!!
+!!Error parsing row 24. Wrong number of columns.!!
+!!Error parsing row 25. Wrong number of columns.!!
+!!Error parsing row 26. Wrong number of columns.!!
+!!Error parsing row 27. Wrong number of columns.!!
+!!Error parsing row 28. Wrong number of columns.!!
+!!Error parsing row 29. Wrong number of columns.!!
+!!Error parsing row 30. Wrong number of columns.!!
+!!Error parsing row 31. Wrong number of columns.!!
+!!Error parsing row 32. Wrong number of columns.!!
+!!Error parsing row 33. Wrong number of columns.!!
+!!Error parsing row 34. Wrong number of columns.!!
+!!Error parsing row 35. Wrong number of columns.!!
+!!Error parsing row 36. Wrong number of columns.!!
+!!Error parsing row 37. Wrong number of columns.!!
+!!Error parsing row 38. Wrong number of columns.!!
+!!Error parsing row 39. Wrong number of columns.!!
+!!Error parsing row 40. Wrong number of columns.!!
+!!Error parsing row 41. Wrong number of columns.!!
+!!Error parsing row 42. Wrong number of columns.!!
+!!Error parsing row 43. Wrong number of columns.!!
+!!Error parsing row 44. Wrong number of columns.!!
+!!Error parsing row 45. Wrong number of columns.!!
+!!Error parsing row 46. Wrong number of columns.!!
+!!Error parsing row 47. Wrong number of columns.!!
+!!Error parsing row 48. Wrong number of columns.!!
+!!Error parsing row 49. Wrong number of columns.!!
+!!Error parsing row 50. Wrong number of columns.!!
+!!Error parsing row 51. Wrong number of columns.!!
+!!Error parsing row 52. Wrong number of columns.!!
+!!Error parsing row 53. Wrong number of columns.!!
+!!Error parsing row 54. Wrong number of columns.!!
+!!Error parsing row 55. Wrong number of columns.!!
+!!Error parsing row 56. Wrong number of columns.!!
+!!Error parsing row 57. Wrong number of columns.!!
+!!Error parsing row 58. Wrong number of columns.!!
+!!Error parsing row 59. Wrong number of columns.!!
+!!Error parsing row 60. Wrong number of columns.!!
+!!Error parsing row 61. Wrong number of columns.!!
+!!Error parsing row 62. Wrong number of columns.!!
+!!Error parsing row 63. Wrong number of columns.!!
+!!Error parsing row 64. Wrong number of columns.!!
+!!Error parsing row 65. Wrong number of columns.!!
+!!Error parsing row 66. Wrong number of columns.!!
+!!Error parsing row 67. Wrong number of columns.!!
+!!Error parsing row 68. Wrong number of columns.!!
+
+[{"":"Name ","":null,"":"Title/Program","":null,"":"Facility/Station Number ","":null,"02-Aug-11":null,"":"Address ","":null,"":"City/State/Zip","":null,"":"Office Phone","":null,"":"Fax ","":"E-mail"},
+{"":"VISN 1","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"VACANT ","":null,"":"Network Homeless Coordinator","":null,"":"VA Boston Healthcare System ","":null,"02-Aug-11":null,"":"150 S. Huntington Ave. ","":null,"":"Boston, MA 02130","":null,"":"617-232-9500 ","":null,"":"617-278-4477","":""},
+{"":"Kevin M. Casey","":null,"":"Deputy Network Homeless Coord.","":null,"":"VA Medical Center-650","":null,"02-Aug-11":null,"":"200 Springs Road, Bldg 16.","":null,"":"Bedford, MA 01730-1198 ","":null,"":"781-687-3487","":null,"":"781-687-3300","":"Kevin.Casey2@va.gov"},
+{"":"VISN 2","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"VACANT ","":null,"":"Network Homeless Coord.","":null,"":"VA Medical Center-532","":null,"02-Aug-11":null,"":"400 Fort Hill Avenue","":null,"":"Canandaigua, NY 14424","":null,"":"716-393-7413","":null,"":"716-393-7629","":""},
+{"":"Jean Dittman","":null,"":"Deputy NHC ","":null,"":"VA Medical Center -500","":null,"02-Aug-11":null,"":"3495 Bailey Ave.","":null,"":"Buffalo, NY 14215","":null,"":"716-862-6016","":null,"":"","":"Jean.Dittman@va.gov"},
+{"":"VISN 3","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Julie Irwin ","":null,"":"Network Homeless Coordinator","":null,"":"VA Medical Center-10N3HOM","":null,"02-Aug-11":null,"":"130 West Kingsbridge Road ","":null,"":"Bronx, NY 10468","":null,"":"718-584-9000 ext.3718","":null,"":"718-741-4682","":"Julie.Irwin@va.gov"},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"VISN 4","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Angela D. Keen","":null,"":"Network Homelsss Coordinator .","":null,"":"VA Healthcare (10N4)","":null,"02-Aug-11":null,"":"323 North Shore Drive, Suite 400","":null,"":"Pittsburgh, PA 15212","":null,"":"412-954-4591","":null,"":"","":"Angela.Keen@va.gov"},
+{"":"VISN 5","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Jesse K.Vazzano","":null,"":"Network Homeless Coordinator ","":null,"":"VA Medical Center","":null,"02-Aug-11":null,"":"849 International Drive, Suite 275","":null,"":"Linthicum, MD 21090","":null,"":"410-691-0618","":null,"":"410-691-1316","":"Jesse.Vazzano@va.gov"},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":"Dale.Smith@med.va.gov"},
+{"":"VISN 6","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Jeffrey Doyle","":null,"":"Network Homeless Coordinator ","":null,"":"VA Medical Center","":null,"02-Aug-11":null,"":"300 West Morgan Street, Suite 1450 ","":null,"":"Durham, NC 27701","":null,"":"919-688-7613 ext.438","":null,"":"919-688-7946","":"Jeffrey.Doyle@va.gov"},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"VISN 7","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Patricia Bradford","":null,"":"Network Homeless Coordinator","":null,"":"WJB Dorn Veterans Medical Ctr.","":null,"02-Aug-11":null,"":"6439 Garners Ferry Rd. ","":null,"":"Columbia, SC 29209-1639","":null,"":"803-647-5818","":null,"":"803-647-5728","":"Patricia.Bradford@va.gov"},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":"Michael.Burke3@med.va.gov"},
+{"":"VISN 8","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Daniel Robbin ","":null,"":"Network Homeless Coordinator","":null,"":"VA Medical Center-546","":null,"02-Aug-11":null,"":"1492 West Flagler Street","":null,"":"Miami, FL 33126","":null,"":"305-541-5864 ext.136","":null,"":"305-541-8614","":"Daniel.Robbin@va.gov"},
+{"":"VISN 9","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"David Hansard","":null,"":"Network Homeless Coordinator ","":null,"":"James A. Quillen,VAMC ","":null,"02-Aug-11":null,"":"Dogwood Ave. Bld.-160, Rm.P477","":null,"":"Mountain Home, TN 37684","":null,"":"423-979-2874","":null,"":"423-979-2812","":"David.Hansard@va.gov"},
+{"":"VISN 10","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"James Kennelly","":null,"":"Network Homelss Coordinator ","":null,"":"VA Medical Center ","":null,"02-Aug-11":null,"":"10000 Brecksville Rd.","":null,"":"Brecksville, OH 44141","":null,"":"440-526-3030 ext. 3556","":null,"":"440-838-6032","":"James.Kennelly@va.gov"},
+{"":"Kristi L. Sack","":null,"":"Deputy Network Homeless  Coordinator ","":null,"":"Louis Stokes Cleveland VAMC","":null,"02-Aug-11":null,"":"10000 Brecksville Rd. ","":null,"":"Brecksville, OH 44141","":null,"":"440-526-3030 ext. 3556","":null,"":"","":"Kristi.Sack@va.gov"},
+{"":"VISN 11","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Philip E. Thomas ","":null,"":"Network Homeless Coordinator","":null,"":"VA Medical Center ","":null,"02-Aug-11":null,"":"964 N. Penn St. ","":null,"":"Indianapolis, IN 46204  ","":null,"":"317-822-5471","":null,"":"317-951-0811","":"Philip.Thomas2@va.gov"},
+{"":"Stacy J. Knipscheer","":null,"":"Deputy NHC","":null,"":"VA Medical Center ","":null,"02-Aug-11":null,"":"2121 Lake Avenue ","":null,"":"Fort Wayne, IN 46805","":null,"":"260-426-5431 ext.71109","":null,"":"260421-1824","":"Stacy.Knipscheer@va.gov"},
+{"":"VISN 12","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Gene Herskovic","":null,"":"Network Homeless Coordinator","":null,"":"VA Medical Center-578","":null,"02-Aug-11":null,"":"820 South Damen","":null,"":"Chicago, IL 60612","":null,"":"312-569-7466","":null,"":"312-569-6144","":"Gene.Herskovic@va.gov"},
+{"":"VISN 15","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Frank Piper ","":null,"":"Network Homeless Coordinator ","":null,"":"VA Medical Center ","":null,"02-Aug-11":null,"":"4101 S. 4th St.","":null,"":"Leavenworth, KS 66048","":null,"":"913-682-2000 ext.52296","":null,"":"913-758-4149 ","":"Frank.Piper@va.gov"},
+{"":"Randy Crandall ","":null,"":"Deputy Director NHC ","":null,"":"VA Medical Center ","":null,"02-Aug-11":null,"":"2200 Gage Blvd.","":null,"":"Topeka, KS 66622","":null,"":"785-350-3111ext.52090","":null,"":"785-350-4368","":"Randall.Crandall@va.gov"},
+{"":"VISN 16","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Dorothy Thomas","":null,"":"Network Homeless Coordinator","":null,"":"Department of Veterans Affairs ","":null,"02-Aug-11":null,"":"2495 Shreveport Hwy, 71 North ","":null,"":"Pineville, LA 71360 ","":null,"":"318-473-0010 ext. 4227","":null,"":"318-483-5189","":"Dorothy.Thomas@va.gov"},
+{"":"VISN 17","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Heloise Ferguson","":null,"":"Network Homless Coordinator  ","":null,"":"VA Medical Center -549","":null,"02-Aug-11":null,"":"4500 S. Lancaster Rd. ","":null,"":"Dallas, TX 75216","":null,"":"214-857-0943 ","":null,"":"214-462-4546","":"Heloise.Ferguson@va.gov"},
+{"":"VISN 18","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Steven Cohen","":null,"":"Network Homeless Coordinator ","":null,"":"VA Medical Center - 678","":null,"02-Aug-11":null,"":"3601 S. 6th Avenue ","":null,"":"Tuscon, AZ 85723","":null,"":"520-792-1450 ext.2995","":null,"":"520-629-4725","":"Steven.Cohen@va.gov"},
+{"":"VISN 19","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Richard DeBlasio ","":null,"":"Network Homeless Coordinator ","":null,"":"VA Eastern Colorado HCS","":null,"02-Aug-11":null,"":"4100 East Mississippi Avenue ","":null,"":"Glendale, CO 80220 ","":null,"":"303-504-3569","":null,"":"303-756-9243","":"Richard.DeBlasio@va.gov"},
+{"":"Michael Agpar","":null,"":"Deputy Network Homeless Coordinator ","":null,"":"VA Eastern Colorado HCS","":null,"02-Aug-11":null,"":"4100 East Mississippi Avenue ","":null,"":"Glendale, CO 80220 ","":null,"":"303-639-4007","":null,"":"303-756-9243","":"Michael.Apgar@va.gov"},
+{"":"VISN 20","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Eileen Devine ","":null,"":"Network Homeless Coordinator ","":null,"":"VAMC Portland","":null,"02-Aug-11":null,"":"3710 SW US Veterans Hospital Rd.","":null,"":"Portland, OR 97239-2999","":null,"":"503-220-8262 ext.34046","":null,"":"","":"Eileen.Devine@va.gov"},
+{"":"VISN 21","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Roberta L. Rosenthal ","":null,"":"Network Homeless Coordinator ","":null,"":"VA Medical Center-662","":null,"02-Aug-11":null,"":"401 3rd Street","":null,"":"San Francisco, CA 94107","":null,"":"415-281-5132","":null,"":"415-750-6976","":"Roberta.Rosenthal@va.gov"},
+{"":"Danica Bogicevic","":null,"":"Deputy Network Homeless Coordinator ","":null,"":"VA Medical Center-662","":null,"02-Aug-11":null,"":"401 3rd Street ","":null,"":"San Francisco, CA 94107","":null,"":"415-281-5132","":null,"":"415-861-2008","":"Danica.Bogicevic@va.gov"},
+{"":"VISN 22","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Betty Zamost ","":null,"":"Network Homeless Coordinator ","":null,"":"West LA VA Med Ctr-691","":null,"02-Aug-11":null,"":"11301 Wilshire Blvd.","":null,"":"Los Angeles, CA 90073","":null,"":"310-268-3508","":null,"":"310-268-4050","":"Betty.Zamost@va.gov"},
+{"":"VISN 23","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Betty Zamost ","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"VISN 23","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"Joseph E. Bonnesen","":null,"":"Network Homeless Coordinator  ","":null,"":"Iowa HCS ","":null,"02-Aug-11":null,"":"601 HWY 6 West ","":null,"":"Iowa City, IA 52246","":null,"":"319-887-4976","":null,"":"319-339-7036","":"Joseph.Bonnesen@va.gov"},
+{"":"Lisa McGuire ","":null,"":"Deputy NHC ","":null,"":"VISN 23 Office - 618","":null,"02-Aug-11":null,"":"5445 Minnehaha Ave Bldg 9 ","":null,"":"Minneapolis, MN 55417 ","":null,"":"","":null,"":"","":"Lisa.McGuire@va.gov"},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""},
+{"":"","":null,"":"","":null,"":"","":null,"02-Aug-11":null,"":"","":null,"":"","":null,"":"","":null,"":"","":""}]
